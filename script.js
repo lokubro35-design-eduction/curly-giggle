@@ -1,6 +1,6 @@
 const config = {
-    ctaUrl: "https://t.me/+ZUMK-aXb7rQ2ZDU1",
-    logoUrl: "/image.png",
+    ctaUrl: "https://t.me/+NCFWjPfcBCY1NjY1",
+    logoUrl: "back.jpg",
 };
 
 document.addEventListener("DOMContentLoaded", () => {
